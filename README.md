@@ -1,18 +1,3 @@
-# Shoes_Store_Database_System
-
-Introduction
-------
-Welcome to the Shoes Store Database System! This database provides comprehensive information on shoes available in a retail store, offering insights into product attributes, pricing, and inventory management.
-
-Process Overview
-------
-Shoes Store Dataset Analysis
-This repository contains an analysis of the shoes store dataset, which includes information about various shoes available in the store. The dataset was normalized, imported into SQL Server, and analyzed using SQL queries.
-
-Great! Here's the updated version of the README.md file with mentions of the files you'll upload:
-
----
-
 # Shoes Store Dataset Analysis
 
 This repository contains an analysis of the shoes store dataset, which includes information about various shoes available in the store. The dataset was normalized, imported into SQL Server, and analyzed using SQL queries.
