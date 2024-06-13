@@ -19,11 +19,11 @@ The dataset includes the following fields:
 
 ## Analysis Steps
 
-1. **Normalization:** The dataset was normalized to remove redundancy and improve data integrity. (File: `normalization_file.txt`)
-2. **Entity-Relationship Diagram (ERD):** An ERD was created to visualize the relationships between different entities in the dataset. (File: `erd_diagram.png`)
-3. **Schema Design:** Based on the ERD, a database schema was designed to represent the dataset in SQL Server. (File: `schema_design.sql`)
-4. **Importing Data:** The normalized dataset was imported into SQL Server as CSV files. (File: `dataset.csv`)
-5. **Database Creation:** A database was created in SQL Server based on the designed schema. (File: `database.bak`)
+1. **Normalization:** The dataset was normalized to remove redundancy and improve data integrity. (File: `Normalization.xlsx`)
+2. **Entity-Relationship Diagram (ERD):** An ERD was created to visualize the relationships between different entities in the dataset. (File: `ERD.jpg`)
+3. **Schema Design:** Based on the ERD, a database schema was designed to represent the dataset in SQL Server. (File: `DB_Diagram.png`)
+4. **Importing Data:** The normalized dataset was imported into SQL Server as CSV files. (File: `Dataset.xlsx`)
+5. **Database Creation:** A database was created in SQL Server based on the designed schema. (File: `store.bak`)
 6. **Analysis:** Various SQL queries were executed to perform analysis on the dataset, such as finding the average price, identifying popular colors, etc. (Files: `analysis_queries.sql`)
 
 ## Repository Structure
