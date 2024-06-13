@@ -23,6 +23,6 @@ The dataset includes the following fields:
 2. **Entity-Relationship Diagram (ERD):** An ERD was created to visualize the relationships between different entities in the dataset.
 ![alt text](https://github.com/Shamss08/Shoes_Store_Database_System/blob/main/ERD.jpg "ERD")
 3. **Schema Design:** Based on the ERD, a database schema was designed to represent the dataset in SQL Server. ![alt text](https://github.com/Shamss08/Shoes_Store_Database_System/blob/main/DB_Diagram.png "Database Schema")
-4. **Importing Data:** The normalized dataset was imported into SQL Server as CSV files. [Dataset] (https://github.com/Shamss08/Shoes_Store_Database_System/blob/main/Dataset.xlsx)
-5. **Database Creation:** A database was created in SQL Server based on the designed schema. [Database] (https://github.com/Shamss08/Shoes_Store_Database_System/blob/main/store.bak)
+4. **Importing Data:** The normalized dataset was imported into SQL Server as CSV files. [Dataset](https://github.com/Shamss08/Shoes_Store_Database_System/blob/main/Dataset.xlsx)
+5. **Database Creation:** A database was created in SQL Server based on the designed schema. [Database](https://github.com/Shamss08/Shoes_Store_Database_System/blob/main/store.bak)
 6. **Analysis:** Various SQL queries were executed to perform analysis on the dataset, such as finding the average price, identifying popular colors, etc. (Files: `analysis_queries.sql`)
