@@ -20,7 +20,8 @@ The dataset includes the following fields:
 ## Analysis Steps
 
 1. **Normalization:** The dataset was normalized to remove redundancy and improve data integrity. [Normalization](https://github.com/Shamss08/Shoes_Store_Database_System/blob/main/Normalization.xlsx)
-2. **Entity-Relationship Diagram (ERD):** An ERD was created to visualize the relationships between different entities in the dataset. (File: `ERD.jpg`)
+2. **Entity-Relationship Diagram (ERD):** An ERD was created to visualize the relationships between different entities in the dataset. Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 3. **Schema Design:** Based on the ERD, a database schema was designed to represent the dataset in SQL Server. (File: `DB_Diagram.png`)
 4. **Importing Data:** The normalized dataset was imported into SQL Server as CSV files. (File: `Dataset.xlsx`)
 5. **Database Creation:** A database was created in SQL Server based on the designed schema. (File: `store.bak`)
